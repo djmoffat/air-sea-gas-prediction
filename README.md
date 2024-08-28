@@ -1,6 +1,10 @@
 # air-sea-gas-prediction
 Companion Repository for "Deciphering the variability in air-sea gas transfer due to sea state and wind history"
 
+<a target="_blank" href="https://colab.research.google.com/github/djmoffat/air-sea-gas-prediction/blob/main/Predict-K-air-sea-gas.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 ## Data Sources
 
