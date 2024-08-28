@@ -9,8 +9,9 @@ Companion Repository for "Deciphering the variability in air-sea gas transfer du
 ## Data Sources
 
 Data has been taken from 
-* 10.3389/fmars.2022.826421 
-* http://doi.org/10.5061/dryad.b2rbnzspm
+* Yang, M., Bell, T.G., Bidlot, J.R., Blomquist, B.W., Butterworth, B.J., Dong, Y., Fairall, C.W., Landwehr, S., Marandino, C.A., Miller, S.D. and Saltzman, E.S., 2022. Global synthesis of air-sea CO2 transfer velocity estimates from ship-based eddy covariance measurements. Frontiers in Marine Science, 9, p.826421. https://doi.org/10.3389/fmars.2022.826421 
+* Dong, Y. et al. (2024a). Data from: Direct observational evidence of strong CO2 uptake in the Southern Ocean. Dryad. https://doi.org/10.5061/dryad.b2rbnzspm
+
 
 
 ## Citation
